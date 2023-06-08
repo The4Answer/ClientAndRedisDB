@@ -5,5 +5,6 @@
 2) Generated token
 
 # To run client you have to:
-1) install everything from requirements.txt
-2) open client.py and run it
+1) Download all files
+2) install everything from requirements.txt
+3) open client.py and run it
