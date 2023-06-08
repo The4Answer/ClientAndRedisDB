@@ -1,6 +1,6 @@
 # ClientAndRedisDB
 # Redis DB created in Redislab Clouds
-# Python Client saves info about all autorized users in DB:
+# Python Client saves info about every autorized user in DB:
 1) Full name
 2) Generated token
 
